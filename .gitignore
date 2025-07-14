@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Random temporary files and OS-specific files
+.DS_Store
+.sass-cache/
+.tmp/
+.rvmrc
+.trashes/
+*~
+
+# Editor-specific files
+.vscode/
+.vscode-test/
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
+
+# Build outputs (if applicable, e.g., for frameworks like Gatsby)
+.cache/
+public/
